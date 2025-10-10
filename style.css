@@ -3,7 +3,7 @@ body, html {
     padding: 0;
 }
 body {
-    background-image: url(img/key.jpg);
+    background-image: url(key.jpg);
     background-size: cover;
     color: #fff;
 }
@@ -27,4 +27,5 @@ p {
     width: 100px;
     height: auto;
     cursor: pointer;
+
 }
