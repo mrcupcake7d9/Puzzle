@@ -1,8 +1,8 @@
 const button = document.getElementById("button");
 
 button.addEventListener('click', function() {
-    alert("My normal brother, my funking brother he didnt really win the lotery.")
+    alert("Nečakal som že by si sa sem dostala ale očividne toho mnoho zvládneš.")
     setTimeout(() => {
-        alert("Máš u mňa 5€ ti blázon!")
+        alert("Fun fact: Za posledný týždeň som Tomáša stretol 3-krát na random miestach")
     }, 2000);
 });
